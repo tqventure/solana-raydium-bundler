@@ -43,7 +43,7 @@ To get started with the Solana Raydium Bundler, follow these steps to ensure a s
 ### 1. How to run repository 
 
 #### Clone my repository
-Git clone https://github.com/earthzetaorg/solana-raydium-bundler.git
+Git clone https://github.com/tqventure/solana-raydium-bundler.git
 
 #### Edit the `.env` File
 Before running the script, you need to configure the `.env` file. There are two keypairs required:
